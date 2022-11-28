@@ -10,7 +10,7 @@ In case of any queries feel free to contact:
 Atharva Bhanage: 8074292759 (Co-ordinator)
 Runal Palkar: 9137884831 (Event Head)
 
-<img src="https://github.com/runal-07/E-Bike/blob/main/cepheus'23%20poster.jpg?raw=true" width="460" height="600"/>
+<img src="https://github.com/runal-07/E-Bike/blob/main/cepheus'23%20poster.jpg?raw=true" width="360" height="370"/>
 
 Warm Regards,
 Team Cepheus
